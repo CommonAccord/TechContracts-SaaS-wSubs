@@ -9,5 +9,7 @@ We suggest mounting this as /G/TechContracts/SaaS/ToS-wSubs/.
 
 For a demo, see http://www.commonaccord.org/index.php?action=source&file=G/TechContracts/SaaS/ToS-wSubs/Demo/001-QuakeInc-BareParameters.md
 
+To see the steps in converting from a Word doc to this ProseObject - https://github.com/CommonAccord/TechContracts-SaaS-wSubs/commits/main/Form/001.md
+
 Dependencies:  /G/Z/
 
